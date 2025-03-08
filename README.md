@@ -3,6 +3,7 @@ This repository is designed to help developers, data scientists, and ML enthusia
 The repository contains implementations of different machine learning algorithms using Python and popular ML libraries like Scikit-Learn, TensorFlow, and PyTorch. The projects are designed to help learners understand fundamental ML concepts and build practical models.
 
 **Type of ML Model**
+
 (a) Supervised Learning Models – Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines (SVM), etc.
 
 (b) Unsupervised Learning Models – K-Means Clustering, Hierarchical Clustering, Principal Component Analysis (PCA), etc.
@@ -19,6 +20,7 @@ The repository contains implementations of different machine learning algorithms
 
 
 **Who Can Use This Repository?**
+
 (1) Beginners looking to get hands-on experience with ML models.
 
 (2) Students working on machine learning projects.
